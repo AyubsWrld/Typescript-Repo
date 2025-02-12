@@ -1,6 +1,8 @@
 # Table of Contents 
 
-- [The Basics](Test.md) 
-- [The Basics](Test2.md) 
-
+ - [Configuration](Configuration.md)
+ - [Basics](Basics.md)
+ - [Introduction](Introduction.md)
+ - Primitive Types
+ - README.md
 
